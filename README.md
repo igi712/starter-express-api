@@ -15,6 +15,8 @@ and user's IP address through to the origin host.
 
 ## Deployment
 
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/invydere/starter-micro-api)
+
 ### Heroku
 
 You can deploy this service to Heroku:
